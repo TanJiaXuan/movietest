@@ -45,17 +45,3 @@ class App extends Component {
 }
 
 export default App;
-
-//npm install axios express mongoose concurrently --save
-//npm install create-react-app --save
-//create-react-app client
-//cd client
-//npm start (open browser)
-
-//edit project
-//git add .
-//git commit -m "edited App.js"
-//git push
-
-//fork - copy another person project to your github acc
-//clone - copy/download your existing project (github press clone and download there link, open gitbash, open the foloder want to put then press git clone paste the link)
